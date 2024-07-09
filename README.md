@@ -11,3 +11,7 @@ A set of ideas to work on
 * LLM testing for dockerized LLMs
 * User can try out multiple queues for better efficiency
 * Metrics can be added on LLMs
+
+## A Static Wesbite to material views
+
+* A website in nextjs or freshjs just to display materials and its properties
