@@ -15,3 +15,8 @@ A set of ideas to work on
 ## A Static Wesbite to material views
 
 * A website in nextjs or freshjs just to display materials and its properties
+
+
+## A Gnome Port Seeing extension
+
+* Killing and viewing all the ports in a single gnome extension using rust / go 
