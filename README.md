@@ -16,6 +16,9 @@ A set of ideas to work on
 
 * A website in nextjs or freshjs just to display materials and its properties
 
+## Steady Stateflow
+
+* Deep steady flows where numerical simulations which consists the basic equations of RANS, The model will able to predict and analyse the flow over an airfoil from airfoil tools website. The aerodynamics parameters and the flow visualization with required graphs if needed
 
 ## A Gnome Port Seeing extension
 
